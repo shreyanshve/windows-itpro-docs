@@ -21,6 +21,7 @@ ms.topic: conceptual
 # Threat & Vulnerability Management
 **Applies to:**
 - [Microsoft Defender Advanced Threat Protection (Microsoft Defender ATP)](https://go.microsoft.com/fwlink/p/?linkid=2069559)
+- [Threat and Vulnerability management)](https://squareup.com/guides/pci-compliance)
 
 [!include[Prerelease information](prerelease.md)]
 
